@@ -10,4 +10,4 @@
 <li>Transition Effects: Smooth fade or slide transitions between images.</li>
 <li>Customizable: Easily customizable to change image duration, animation effects, etc.</li>
 </ul>
-<img src="" alt="Image 3">
+<img src="https://github.com/Aditya-Sanpui/Image-Slider/blob/main/Screenshot%202024-11-05%20221846.png?raw=true" alt="Slider Screenshort">
